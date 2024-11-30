@@ -109,7 +109,7 @@ Notas:
 ## Logs  /servicio-cliente/logs/cliente-service.log
 
 		Los logs se guardarán en el archivo logs/cliente-service.log.
-		Se mostrarán logs con nivel DEBUG o superior para el paquete com.ejemplo.rest.
+		Se mostrarán logs con nivel DEBUG o superior para el paquete com.cliente.rest.
 
 	
 ## JAR servicio-cliente-0.0.1-SNAPSHOT
