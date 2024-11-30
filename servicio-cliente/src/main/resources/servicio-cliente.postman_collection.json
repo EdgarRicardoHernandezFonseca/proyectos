@@ -1,0 +1,82 @@
+{
+	"info": {
+		"_postman_id": "6c5be89a-52cd-4ebc-858a-14301028f449",
+		"name": "servicio-cliente",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36555778"
+	},
+	"item": [
+		{
+			"name": "/api/v1/clientes/{tipoDocumento}/{numeroDocumento}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/api/v1/clientes/C/23445322",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"clientes",
+						"C",
+						"23445322"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "/api/v1/clientes/{tipoDocumento}/{numeroDocumento}",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8090/api/v1/customers/C/23445322",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8090",
+							"path": [
+								"api",
+								"v1",
+								"customers",
+								"C",
+								"23445322"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "/api/v1/clientes/{tipoDocumento}/{numeroDocumento}",
+					"originalRequest": {
+						"method": "GET",
+						"header": []
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "/api/v1/clientes/{tipoDocumento}/{numeroDocumento}",
+					"originalRequest": {
+						"method": "GET",
+						"header": []
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		}
+	]
+}
