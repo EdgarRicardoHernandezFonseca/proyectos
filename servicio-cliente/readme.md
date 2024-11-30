@@ -96,7 +96,7 @@ Notas:
 ## SWAGGER
 
 	 http://localhost:8090/swagger-ui/index.html
-	 http://localhost:8090/swagger-ui/index.html#/Gesti%C3%B3n%20de%20Clientes/obtenerClienteUsingGET]
+	 http://localhost:8090/swagger-ui/index.html#/Gesti%C3%B3n%20de%20Clientes/obtenerClienteUsingGET
 
 
 
